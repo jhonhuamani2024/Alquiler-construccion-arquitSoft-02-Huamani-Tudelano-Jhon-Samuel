@@ -1,0 +1,23 @@
+# Dependencias y entorno
+node_modules/
+.env
+.env.*
+
+# Compilados (NestJS / Spring Boot / .NET)
+dist/
+build/
+target/
+bin/
+obj/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Logs y temporales
+*.log
+*.tmp
