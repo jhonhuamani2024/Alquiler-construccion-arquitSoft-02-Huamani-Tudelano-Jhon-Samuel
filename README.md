@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="img/logo-unsch.png" alt="Escudo de la Universidad Nacional de San Cristóbal de Huamanga" width="150">
+</p>
+
+<p align="center"><b>Universidad Nacional de San Cristóbal de Huamanga</b></p>
+
 # Diseño de la arquitectura de software de una aplicación para la gestión de alquiler de herramientas, maquinaria y personal en el sector construcción
 
-**Área:** Arquitectura de Software · **Autor:** [Tu nombre] · **Versión:** 1.0 · **Fecha:** octubre de 2026
+**Área:** Arquitectura de Software · **Autor:** Huamani Tudelano, Jhon Samuel · **Versión:** 1.0 · **Fecha:** octubre de 2026
 
 ---
 
