@@ -3,7 +3,7 @@
 ## Estilo elegido: Monolito modular + Clean Architecture
 
 El sistema se despliega como **una única aplicación** internamente dividida en **módulos de negocio independientes**, cada uno estructurado en capas siguiendo Clean Architecture.
-<img width="3600" height="2260" alt="estilo-monolito-modular-clean-architecture" src="https://github.com/user-attachments/assets/1a03ea57-b77e-4d0b-8b6f-782ff668276c" />
+<img width="2410" height="1475" alt="estilo-monolito-modular-clean-architecture drawio" src="https://github.com/user-attachments/assets/670b05dc-3922-4ded-9cd0-eecd8d77d16f" />
 
 
 
